@@ -24,7 +24,7 @@ If you use our dataset, please consider citing our work:
 
 [1] Zhou M, Sui H, Chen S, et al. BT-RoadNet: A boundary and topologically-aware neural network for road extraction from high-resolution remote sensing imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 288-306.
 
-'''
+```
 @article{zhou2020bt,
   title={BT-RoadNet: A boundary and topologically-aware neural network for road extraction from high-resolution remote sensing imagery},
   author={Zhou, Mingting and Sui, Haigang and Chen, Shanxiong and Wang, Jindi and Chen, Xu},
@@ -34,4 +34,4 @@ If you use our dataset, please consider citing our work:
   year={2020},
   publisher={Elsevier}
 }
-'''
+```
