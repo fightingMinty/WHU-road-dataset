@@ -18,7 +18,9 @@ To verify the robustness of road extraction algorithms across region, three larg
 
 Please note that we do not own the copyrights to the large satellite images. Their use is RESTRICTED to non-commercial research and educational purposes.
 
-***If you use our dataset, please consider citing our work:
+## Citation
+
+If you use our dataset, please consider citing our work:
 
 [1] Zhou M, Sui H, Chen S, et al. BT-RoadNet: A boundary and topologically-aware neural network for road extraction from high-resolution remote sensing imagery[J]. ISPRS Journal of Photogrammetry and Remote Sensing, 2020, 168: 288-306.
 
