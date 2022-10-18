@@ -4,7 +4,7 @@
 
 Update News(2022.10.18)
 
-We just noticed the redirect issue of the hyperlink given in our paper. We are sorry for the inconvenience it caused. There are two new ways to reach our dataset. 
+We just noticed the redirect issue of the hyperlink given in our paper [BT-RoadNet: A boundary and topologically-aware neural network for road extraction from high-resolution remote sensing imagery](https://www.sciencedirect.com/science/article/pii/S0924271620302331?casa_token=7uE43GWTG2YAAAAA:8RsUO2LkhR6gCmU32jkd6KqS6wMU1DSdfXu-A1GOKGRL1_muDYqXuKBEeMQQw10qvPSReJ_s). We are sorry for the inconvenience it caused. There are two new ways to reach our dataset. 
 
 1. When you click the hyperlink (i.e., http://www.lmars.whu.edu.cn/suihaigang/dataset), the browser will direct you to the website http://www.lmars.whu.edu.cn/suihaigang/index. To find the dataset, you need to click "学术成果"->"学术论文" and find the paper "Zhou, Mingting, Haigang Sui, Shanxiong Chen, Jindi Wang, and Xu Chen. "Bt-Roadnet: A Boundary and Topologically-Aware Neural Network for Road Extraction from High-Resolution Remote Sensing Imagery." Isprs Journal of Photogrammetry and Remote Sensing 168 (Oct 2020): 288-306. https://doi.org/10.1016/j.isprsjprs.2020.08.019. [IF 2019 = 7.319][[PDF]][[DataSet]]". Then click the [Dataset]. Finally, you will find the website for the description and the Baidu Netdisk downloading link (Baidu Netdisk: https://pan.baidu.com/s/1UcyMBa8M-peHe8rDz3nRVA, password: WHUR) of The Wuhan University (WHU) Road Dataset.
 
